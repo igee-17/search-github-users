@@ -4,4 +4,4 @@
 
 Requires user to sign-up on first access
 
-Technologies: React-Router-Dom, Fusion-Charts, Styled Components, Auth0
+Technologies: React-Router-Dom, Fusion-Charts, Styled Components, Auth0, GitHub API
