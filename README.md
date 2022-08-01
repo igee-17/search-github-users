@@ -1,4 +1,4 @@
-### This is an application that can be used to search for any github user and display specific information about them such as their followers most used languages, most forked languages etc.
+### This is an application that can be used to search for any github user and display specific information about them such as their followers, most used languages, most forked languages etc.
 
 #### Built using React
 
