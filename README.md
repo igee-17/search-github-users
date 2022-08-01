@@ -4,6 +4,9 @@
 
 To view in production: https://igee-github-users.netlify.app
 
+# Languages:
+HTML, CSS, javaScript
+
 # TECHNOLOGIES: 
 
 ## Styled Components
