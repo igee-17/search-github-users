@@ -1,12 +1,10 @@
-#### This is an application that can be used to search for any github user and display specific information about them such as their followers most used languages, and most forked languages
+### This is an application that can be used to search for any github user and display specific information about them such as their followers most used languages, most forked languages etc.
 
-##### Built using React
+#### Built using React
 
 To view in production: https://igee-github-users.netlify.app
 
-Requires user to sign-up on first access
-
-### Technologies: 
+# TECHNOLOGIES: 
 
 ## Styled Components
 
