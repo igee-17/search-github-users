@@ -6,7 +6,7 @@ To view in production: https://igee-github-users.netlify.app
 
 Requires user to sign-up on first access
 
-###Technologies: 
+### Technologies: 
 
 ## Styled Components
 
